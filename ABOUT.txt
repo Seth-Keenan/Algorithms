@@ -1,0 +1,4 @@
+This is just a folder to hold the different types of algorithms that I find and write myself, I will implement them in different ways.
+
+This is hopefully going to be helpful to completely grasp the ideas of these algorithms and inform myself. I also want them to be
+able to be used in different situations.
