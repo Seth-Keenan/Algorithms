@@ -11,7 +11,7 @@ void insert(tree **root, int num){
         (*root)->right = NULL;
         (*root)->left = NULL;
         (*root)->data = num;
-        (*root)->treeSize = 0;
+        (*root)->treeSize = 1;
     }
 
     else{
